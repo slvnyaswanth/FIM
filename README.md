@@ -1,6 +1,6 @@
 # FIM
 A Project to main integrity in Files 
-#Feauters
+# Feauters
 1.Able to monitor changes in files in background
 2. Able to store all changes in log fles
 3. Able to Virus  Scan the inserted the file uisng VirusTotal API
